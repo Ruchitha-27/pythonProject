@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,product_id,product_name,product_price,quantity
+234,ruch,12082023,2768,soap,50.9,1
+354,deeps,13092023,2779,bodywash,60,2
+432,shaa,08032022,2368,watch,300.5,1
+128,nik,01092023,478,toys,100.2,3
+687,ani,16092022,8794,doll,50,1
+1,ruch,12082023,2768,soap,50.9,2
+3254,deeps,13092023,2768,soap,50.9,1
+4432,shaa,08032022,2368,watch,300.5,3
+1298,nik,1002023,478,toys,100,1
+607,ani,16092022,8794,doll,50,2
